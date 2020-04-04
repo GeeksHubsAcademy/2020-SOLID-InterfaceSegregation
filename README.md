@@ -1,2 +1,2 @@
-# 2020-SOLID-InterfaceSegregation
-Interface Segregation 
+# 2020-SOLID-OpenClosed
+2020-SOLID-OpenClosed
